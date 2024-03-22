@@ -8,3 +8,4 @@ ls
 
 date
 
+echo " This is a practice class"
