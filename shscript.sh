@@ -3,4 +3,4 @@
 pwd
 ls
 echo "good day!"
-sudo yum install nginx -y
+yum install nginx -y
